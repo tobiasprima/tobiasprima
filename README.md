@@ -6,7 +6,7 @@ Frontend Web Developer
 
 * 🌍  I'm based in Taipei
 * ✉️  You can contact me at [primatjahja@gmail.com](mailto:primatjahja@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm currently learning Angular
 * 🤘 Great Interest in Software and Web Development
 
 ### Skills
