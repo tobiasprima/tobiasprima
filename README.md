@@ -3,7 +3,7 @@
 
 - 🌍  I'm based in Taipei
 
-- 💬 Ask me about **angular, react, node**
+- 💬 Ask me about **angular, react, nodejs
 
 - 🧠  I'm currently doing projects with Angular and React
 
