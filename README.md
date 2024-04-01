@@ -3,13 +3,15 @@
 
 - 🌍  I'm based in Taipei
 
-- 💬 Ask me about **angular, react, nodejs
+- 💬 Ask me about angular and react
 
 - 🧠  I'm currently doing projects with Angular and React
 
 - 🤘 Great Interest in Software Development
 
 - 📫 How to reach me **primatjahja@gmail.com**
+
+- 📖 https://tobiasprima.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
