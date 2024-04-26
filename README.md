@@ -3,9 +3,9 @@
 
 - 🌍  I'm based in Taipei
 
-- 💬 Ask me about angular and react
+- 💬 Ask me about angular, react, and flutter
 
-- 🧠  I'm currently doing projects with Angular and React
+- 🧠  I'm currently doing projects with Angular, React, and Flutter
 
 - 🤘 Great Interest in Software Development
 
