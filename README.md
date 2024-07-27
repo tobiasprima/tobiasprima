@@ -5,7 +5,7 @@
 
 - 💬 Ask me about angular, react, and flutter
 
-- 🧠  I'm currently doing projects with Angular, React, and Flutter
+- 🧠  I'm currently working as a Frontend Engineer using React
 
 - 🤘 Great Interest in Software Development
 
