@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🌍  I'm based in Taipei
+- 🌍  I'm based in Taipei, Taiwan
 
 - 💬 Ask me about angular, react, and flutter
 
-- 🧠  I'm currently working as a Frontend Engineer using React
+- 🧠  I'm currently working as a Frontend Engineer using React, Tailwind, AntD, HTML Canvas, Konva, and Electron
 
 - 🤘 Great Interest in Software Development
 
