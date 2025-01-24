@@ -3,11 +3,13 @@
 
 - 🌍  I'm based in Taipei, Taiwan
 
-- 💬 Ask me about angular, react, and flutter
+- 💬 Ask me about Angular, React, Flutter, Python, or Go!
 
-- 🧠  I'm currently working as a Frontend Engineer using React, Tailwind, AntD, HTML Canvas, Konva, and Electron
+- 🧠  I'm currently working as a Fullstack Software Engineer using React, Python , Django, and Playwright for web scraping!
 
-- 🤘 Great Interest in Software Development
+- 🔧  I attended a bootcamp focused on Backend Programming and Microservices with Go, and I enjoy building scalable backend systems.
+
+- 🤘 Great Interest in Software Development, especially in backend architecture and microservices.
 
 - 📫 How to reach me **primatjahja@gmail.com**
 
